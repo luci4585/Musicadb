@@ -1,8 +1,8 @@
 namespace Musicadb
 {
-    public partial class principal : Form
+    public partial class PrincipalView : Form
     {
-        public principal()
+        public PrincipalView()
         {
             InitializeComponent();
         }
@@ -14,7 +14,7 @@ namespace Musicadb
 
         private void acercaDeBoton_Click(object sender, EventArgs e)
         {
-            AcercaDe acercaDe = new AcercaDe();
+            AcercaDeView acercaDe = new AcercaDeView();
             acercaDe.ShowDialog();
         }
     }

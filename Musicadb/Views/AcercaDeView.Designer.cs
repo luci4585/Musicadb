@@ -1,6 +1,6 @@
 ﻿namespace Musicadb
 {
-    partial class AcercaDe
+    partial class AcercaDeView
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -27,7 +27,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AcercaDe));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AcercaDeView));
             tableLayoutPanel = new TableLayoutPanel();
             logoPictureBox = new PictureBox();
             labelProductName = new Label();

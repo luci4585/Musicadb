@@ -1,6 +1,6 @@
 ﻿namespace Musicadb
 {
-    partial class principal
+    partial class PrincipalView
     {
         /// <summary>
         ///  Required designer variable.

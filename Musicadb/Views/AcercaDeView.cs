@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace Musicadb
 {
-    partial class AcercaDe : Form
+    partial class AcercaDeView : Form
     {
-        public AcercaDe()
+        public AcercaDeView()
         {
             InitializeComponent();
         }
